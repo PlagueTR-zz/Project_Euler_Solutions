@@ -1,4 +1,4 @@
-# Project-Euler
+# Project-Euler Solutions
 
 A collection of my personal attempts at solving [Project Euler problems](https://projecteuler.net/archives).
 
